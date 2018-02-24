@@ -1,0 +1,9 @@
+F:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+F:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+F:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+F:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+F:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.frmCalculadora.resources
+F:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+F:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+F:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+F:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.pdb

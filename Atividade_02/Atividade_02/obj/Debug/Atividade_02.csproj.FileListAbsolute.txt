@@ -1,0 +1,12 @@
+U:\5_sem\Ling_Prog\Atividade_02\Atividade_02\bin\Debug\Atividade_02.exe.config
+U:\5_sem\Ling_Prog\Atividade_02\Atividade_02\obj\Debug\Atividade_02.csprojResolveAssemblyReference.cache
+U:\5_sem\Ling_Prog\Atividade_02\Atividade_02\obj\Debug\Atividade_02.frmTelaPrincipal.resources
+U:\5_sem\Ling_Prog\Atividade_02\Atividade_02\obj\Debug\Atividade_02.Properties.Resources.resources
+U:\5_sem\Ling_Prog\Atividade_02\Atividade_02\obj\Debug\Atividade_02.csproj.GenerateResource.Cache
+U:\5_sem\Ling_Prog\Atividade_02\Atividade_02\bin\Debug\Atividade_02.exe
+U:\5_sem\Ling_Prog\Atividade_02\Atividade_02\bin\Debug\Atividade_02.pdb
+U:\5_sem\Ling_Prog\Atividade_02\Atividade_02\obj\Debug\Atividade_02.exe
+U:\5_sem\Ling_Prog\Atividade_02\Atividade_02\obj\Debug\Atividade_02.pdb
+J:\College\5_sem\Ling_Prog\Atividade_02\Atividade_02\bin\Debug\Atividade_02.exe.config
+J:\College\5_sem\Ling_Prog\Atividade_02\Atividade_02\obj\Debug\Atividade_02.exe
+J:\College\5_sem\Ling_Prog\Atividade_02\Atividade_02\obj\Debug\Atividade_02.pdb

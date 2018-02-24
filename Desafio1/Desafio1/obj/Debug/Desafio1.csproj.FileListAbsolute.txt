@@ -1,0 +1,21 @@
+U:\5_sem\Ling_Prog\Desafio1\Desafio1\bin\Debug\Desafio1.exe.config
+U:\5_sem\Ling_Prog\Desafio1\Desafio1\bin\Debug\Desafio1.exe
+U:\5_sem\Ling_Prog\Desafio1\Desafio1\bin\Debug\Desafio1.pdb
+U:\5_sem\Ling_Prog\Desafio1\Desafio1\obj\Debug\Desafio1.csprojResolveAssemblyReference.cache
+U:\5_sem\Ling_Prog\Desafio1\Desafio1\obj\Debug\Desafio1.frm_desafio.resources
+U:\5_sem\Ling_Prog\Desafio1\Desafio1\obj\Debug\Desafio1.Properties.Resources.resources
+U:\5_sem\Ling_Prog\Desafio1\Desafio1\obj\Debug\Desafio1.csproj.GenerateResource.Cache
+U:\5_sem\Ling_Prog\Desafio1\Desafio1\obj\Debug\Desafio1.exe
+U:\5_sem\Ling_Prog\Desafio1\Desafio1\obj\Debug\Desafio1.pdb
+F:\Users\Rodrigo\Documents\Visual Studio 2015\Desafio1\Desafio1\bin\Debug\Desafio1.exe.config
+F:\Users\Rodrigo\Documents\Visual Studio 2015\Desafio1\Desafio1\obj\Debug\Desafio1.exe
+F:\Users\Rodrigo\Documents\Visual Studio 2015\Desafio1\Desafio1\obj\Debug\Desafio1.pdb
+F:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\Desafio1\Desafio1\bin\Debug\Desafio1.exe.config
+F:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\Desafio1\Desafio1\obj\Debug\Desafio1.exe
+F:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\Desafio1\Desafio1\obj\Debug\Desafio1.pdb
+F:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\Desafio1\Desafio1\obj\Debug\Desafio1.csprojResolveAssemblyReference.cache
+F:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\Desafio1\Desafio1\obj\Debug\Desafio1.frm_desafio.resources
+F:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\Desafio1\Desafio1\obj\Debug\Desafio1.Properties.Resources.resources
+F:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\Desafio1\Desafio1\obj\Debug\Desafio1.csproj.GenerateResource.Cache
+F:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\Desafio1\Desafio1\bin\Debug\Desafio1.exe
+F:\Users\Rodrigo\Documents\Visual Studio 2015\Projects\Desafio1\Desafio1\bin\Debug\Desafio1.pdb

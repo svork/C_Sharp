@@ -1,0 +1,12 @@
+f:\users\rodrigo\documents\visual studio 2017\Projects\ControleDeVendas_Rodrigo_52718\DllControleDeVendas\bin\Debug\DllControleDeVendas.dll.config
+f:\users\rodrigo\documents\visual studio 2017\Projects\ControleDeVendas_Rodrigo_52718\DllControleDeVendas\bin\Debug\DllControleDeVendas.dll
+f:\users\rodrigo\documents\visual studio 2017\Projects\ControleDeVendas_Rodrigo_52718\DllControleDeVendas\bin\Debug\DllControleDeVendas.pdb
+f:\users\rodrigo\documents\visual studio 2017\Projects\ControleDeVendas_Rodrigo_52718\DllControleDeVendas\obj\Debug\DllControleDeVendas.csprojResolveAssemblyReference.cache
+f:\users\rodrigo\documents\visual studio 2017\Projects\ControleDeVendas_Rodrigo_52718\DllControleDeVendas\obj\Debug\DllControleDeVendas.dll
+f:\users\rodrigo\documents\visual studio 2017\Projects\ControleDeVendas_Rodrigo_52718\DllControleDeVendas\obj\Debug\DllControleDeVendas.pdb
+U:\5_sem\Ling_Prog\ControleDeVendas_Rodrigo_52718\DllControleDeVendas\bin\Debug\DllControleDeVendas.dll.config
+U:\5_sem\Ling_Prog\ControleDeVendas_Rodrigo_52718\DllControleDeVendas\bin\Debug\DllControleDeVendas.dll
+U:\5_sem\Ling_Prog\ControleDeVendas_Rodrigo_52718\DllControleDeVendas\bin\Debug\DllControleDeVendas.pdb
+U:\5_sem\Ling_Prog\ControleDeVendas_Rodrigo_52718\DllControleDeVendas\obj\Debug\DllControleDeVendas.csprojResolveAssemblyReference.cache
+U:\5_sem\Ling_Prog\ControleDeVendas_Rodrigo_52718\DllControleDeVendas\obj\Debug\DllControleDeVendas.dll
+U:\5_sem\Ling_Prog\ControleDeVendas_Rodrigo_52718\DllControleDeVendas\obj\Debug\DllControleDeVendas.pdb

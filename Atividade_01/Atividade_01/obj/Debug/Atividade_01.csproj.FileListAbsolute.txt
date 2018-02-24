@@ -1,0 +1,6 @@
+U:\5_sem\Ling_Prog\Atividade_01\Atividade_01\bin\Debug\Atividade_01.exe.config
+U:\5_sem\Ling_Prog\Atividade_01\Atividade_01\bin\Debug\Atividade_01.exe
+U:\5_sem\Ling_Prog\Atividade_01\Atividade_01\bin\Debug\Atividade_01.pdb
+U:\5_sem\Ling_Prog\Atividade_01\Atividade_01\obj\Debug\Atividade_01.csprojResolveAssemblyReference.cache
+U:\5_sem\Ling_Prog\Atividade_01\Atividade_01\obj\Debug\Atividade_01.exe
+U:\5_sem\Ling_Prog\Atividade_01\Atividade_01\obj\Debug\Atividade_01.pdb

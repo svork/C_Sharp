@@ -1,0 +1,83 @@
+create database ControleDeVendas_Rodrigo_52718;
+
+use ControleDeVendas_Rodrigo_52718;
+
+create table Cliente(
+	CLI_ID int primary key identity(1,1) not null,
+	CLI_NOMERAZAO varchar(80) not null,
+	CLI_CNPJCPF varchar(20) not null,
+	CLI_LOGRADOURO varchar(80) not null,
+	CLI_BAIRRO varchar(50) not null,
+	CLI_CIDADE varchar(50) not null,
+	CLI_UF varchar(2) not null,
+	CLI_CEP varchar(8) not null,
+	CLI_EMAIL varchar(80) not null,
+	CLI_FONES varchar(50) not null,
+	CLI_DTCADASTRO date not null
+);
+
+insert into Cliente (CLI_NOMERAZAO, CLI_CNPJCPF, CLI_LOGRADOURO, CLI_BAIRRO, CLI_CIDADE, CLI_UF, CLI_CEP, CLI_EMAIL, CLI_FONES, CLI_DTCADASTRO) 
+	values ('Jailson Mendez', '12345678', 'Rua do Oco, 1124', 'Jardim das Laranjeiras', 'Campinas','SP', '1245678', 'jmendez@delicia.com', '01912345678', '2004-11-24');
+insert into Cliente (CLI_NOMERAZAO, CLI_CNPJCPF, CLI_LOGRADOURO, CLI_BAIRRO, CLI_CIDADE, CLI_UF, CLI_CEP, CLI_EMAIL, CLI_FONES, CLI_DTCADASTRO) 
+	values ('Vanessa Tomazzini', '98765432', 'Avenida Brasil, 192', 'Jardim Amanda', 'Hortolandia','SP', '13185031', 'nessa_2015@hotmail.com', '01993533468', '2016-09-06');
+insert into Cliente (CLI_NOMERAZAO, CLI_CNPJCPF, CLI_LOGRADOURO, CLI_BAIRRO, CLI_CIDADE, CLI_UF, CLI_CEP, CLI_EMAIL, CLI_FONES, CLI_DTCADASTRO) 
+	values ('Patricia Soares', '12387612', 'Rua Wilson Chibin, 27', 'Parque dos Pinheiros', 'Hortolandia','SP', '13187032', 'patricia_soares@gmail.com', '0193845110', '2008-02-18');
+insert into Cliente (CLI_NOMERAZAO, CLI_CNPJCPF, CLI_LOGRADOURO, CLI_BAIRRO, CLI_CIDADE, CLI_UF, CLI_CEP, CLI_EMAIL, CLI_FONES, CLI_DTCADASTRO) 
+	values ('Juliane Natalia', '2452564', 'Rua Geraldo Teixeira Lopes, 24', 'Jardim Campos Verdes', 'Hortolandia','SP', '13186027', 'ju_natalia@hotmail.com', '019996577214', '2014-04-02');
+
+create table Categoria(
+	CAT_ID int primary key identity(1,1) not null,
+	CAT_DESCRICAO varchar(500) not null
+);
+
+insert into Categoria (CAT_DESCRICAO) values ('Peças para automóveis de alto padrão');
+insert into Categoria (CAT_DESCRICAO) values ('Peças do mercado paralelo');
+insert into Categoria (CAT_DESCRICAO) values ('Peças para veículos antigos');
+
+create table Produto(
+	PRO_ID int primary key identity(1,1) not null,
+	CAT_ID int not null,
+	foreign key (CAT_ID) references Categoria (CAT_ID),
+	PRO_DESCRICAO varchar(500) not null,
+	PRO_QTDEESTOQUE int not null,
+	PRO_VALOR decimal(10,2) not null,
+	PRO_ATIVO int not null
+);
+
+insert into Produto (CAT_ID, PRO_DESCRICAO, PRO_QTDEESTOQUE, PRO_VALOR, PRO_ATIVO) values (1, 'Porta Direita Passageiro Audi A4 TFSI 2017', 1, 14999.95, 1);
+insert into Produto (CAT_ID, PRO_DESCRICAO, PRO_QTDEESTOQUE, PRO_VALOR, PRO_ATIVO) values (2, 'Farol Neblina Gol Bola 95', 345, 79.95, 1);
+insert into Produto (CAT_ID, PRO_DESCRICAO, PRO_QTDEESTOQUE, PRO_VALOR, PRO_ATIVO) values (2, 'Filtro de Ar Esportivo para VW Parati', 78, 149.99, 1);
+insert into Produto (CAT_ID, PRO_DESCRICAO, PRO_QTDEESTOQUE, PRO_VALOR, PRO_ATIVO) values (2, 'Bico Injetor para Escort XR3', 14, 82.99, 1);
+insert into Produto (CAT_ID, PRO_DESCRICAO, PRO_QTDEESTOQUE, PRO_VALOR, PRO_ATIVO) values (3, 'Virabrequim Fusca 74', 3, 799.99, 1);
+insert into Produto (CAT_ID, PRO_DESCRICAO, PRO_QTDEESTOQUE, PRO_VALOR, PRO_ATIVO) values (3, 'Carburador Chevette 82', 3, 299.99, 1);
+insert into Produto (CAT_ID, PRO_DESCRICAO, PRO_QTDEESTOQUE, PRO_VALOR, PRO_ATIVO) values (3, 'Jogo de Biela Reforçada para Opala 6cc', 3, 2799.99, 1);
+
+create table Pedido(
+	PED_ID int primary key identity(1,1) not null,
+	CLI_ID int not null,
+	foreign key (CLI_ID) references Cliente (CLI_ID),
+	PED_DTENCOMENDA date not null,
+	PED_VALOR decimal(10,2) not null,
+	PED_STATUS varchar(80) not null
+);
+
+insert into Pedido (CLI_ID, PED_DTENCOMENDA, PED_VALOR, PED_STATUS) values (1, '2014-04-11', 24768.97, 'Finalizado');
+insert into Pedido (CLI_ID, PED_DTENCOMENDA, PED_VALOR, PED_STATUS) values (4, '2017-05-19', 768.97, 'Finalizado');
+insert into Pedido (CLI_ID, PED_DTENCOMENDA, PED_VALOR, PED_STATUS) values (3, '2017-02-24', 4687.50, 'Cancelado');
+
+create table Item(
+	ITE_ID int primary key identity(1,1) not null,
+	PED_ID int not null,
+	foreign key (PED_ID) references Pedido (PED_ID),
+	PRO_ID int not null,
+	foreign key (PRO_ID) references Produto (PRO_ID),
+	ITE_QTDE int not null,
+	ITE_VALOR decimal(10,2) not null,
+);
+
+insert into Item (PED_ID, PRO_ID, ITE_QTDE, ITE_VALOR) values (1, 2, 2, (select PRO_VALOR from Produto where PRO_ID = 2));
+insert into Item (PED_ID, PRO_ID, ITE_QTDE, ITE_VALOR) values (1, 3, 1, (select PRO_VALOR from Produto where PRO_ID = 3));
+insert into Item (PED_ID, PRO_ID, ITE_QTDE, ITE_VALOR) values (1, 4, 8, (select PRO_VALOR from Produto where PRO_ID = 4));
+insert into Item (PED_ID, PRO_ID, ITE_QTDE, ITE_VALOR) values (2, 1, 1, (select PRO_VALOR from Produto where PRO_ID = 1));
+insert into Item (PED_ID, PRO_ID, ITE_QTDE, ITE_VALOR) values (2, 7, 1, (select PRO_VALOR from Produto where PRO_ID = 7));
+insert into Item (PED_ID, PRO_ID, ITE_QTDE, ITE_VALOR) values (2, 5, 2, (select PRO_VALOR from Produto where PRO_ID = 5));

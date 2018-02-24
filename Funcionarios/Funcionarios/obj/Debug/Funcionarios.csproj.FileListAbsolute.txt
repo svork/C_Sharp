@@ -1,0 +1,19 @@
+U:\5_sem\Ling_Prog\Funcionarios\Funcionarios\bin\Debug\Funcionarios.exe.config
+U:\5_sem\Ling_Prog\Funcionarios\Funcionarios\obj\Debug\Funcionarios.csprojResolveAssemblyReference.cache
+U:\5_sem\Ling_Prog\Funcionarios\Funcionarios\obj\Debug\Funcionarios.Form1.resources
+U:\5_sem\Ling_Prog\Funcionarios\Funcionarios\obj\Debug\Funcionarios.Properties.Resources.resources
+U:\5_sem\Ling_Prog\Funcionarios\Funcionarios\obj\Debug\Funcionarios.csproj.GenerateResource.Cache
+U:\5_sem\Ling_Prog\Funcionarios\Funcionarios\bin\Debug\Funcionarios.exe
+U:\5_sem\Ling_Prog\Funcionarios\Funcionarios\bin\Debug\Funcionarios.pdb
+U:\5_sem\Ling_Prog\Funcionarios\Funcionarios\obj\Debug\Funcionarios.exe
+U:\5_sem\Ling_Prog\Funcionarios\Funcionarios\obj\Debug\Funcionarios.pdb
+F:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\Funcionarios\Funcionarios\bin\Debug\Funcionarios.exe.config
+F:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\Funcionarios\Funcionarios\bin\Debug\Funcionarios.exe
+F:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\Funcionarios\Funcionarios\bin\Debug\Funcionarios.pdb
+F:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\Funcionarios\Funcionarios\obj\Debug\Funcionarios.csprojResolveAssemblyReference.cache
+F:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\Funcionarios\Funcionarios\obj\Debug\Funcionarios.Form1.resources
+F:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\Funcionarios\Funcionarios\obj\Debug\Funcionarios.frmVendedor.resources
+F:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\Funcionarios\Funcionarios\obj\Debug\Funcionarios.Properties.Resources.resources
+F:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\Funcionarios\Funcionarios\obj\Debug\Funcionarios.csproj.GenerateResource.Cache
+F:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\Funcionarios\Funcionarios\obj\Debug\Funcionarios.exe
+F:\Users\Rodrigo\Documents\Visual Studio 2017\Projects\Funcionarios\Funcionarios\obj\Debug\Funcionarios.pdb

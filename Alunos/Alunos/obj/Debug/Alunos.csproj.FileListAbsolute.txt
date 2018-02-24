@@ -1,0 +1,9 @@
+f:\Users\Rodrigo\documents\visual studio 2017\Projects\Alunos\Alunos\bin\Debug\Alunos.exe.config
+f:\Users\Rodrigo\documents\visual studio 2017\Projects\Alunos\Alunos\bin\Debug\Alunos.exe
+f:\Users\Rodrigo\documents\visual studio 2017\Projects\Alunos\Alunos\bin\Debug\Alunos.pdb
+f:\Users\Rodrigo\documents\visual studio 2017\Projects\Alunos\Alunos\obj\Debug\Alunos.csprojResolveAssemblyReference.cache
+f:\Users\Rodrigo\documents\visual studio 2017\Projects\Alunos\Alunos\obj\Debug\Alunos.frmAlunos.resources
+f:\Users\Rodrigo\documents\visual studio 2017\Projects\Alunos\Alunos\obj\Debug\Alunos.Properties.Resources.resources
+f:\Users\Rodrigo\documents\visual studio 2017\Projects\Alunos\Alunos\obj\Debug\Alunos.csproj.GenerateResource.Cache
+f:\Users\Rodrigo\documents\visual studio 2017\Projects\Alunos\Alunos\obj\Debug\Alunos.exe
+f:\Users\Rodrigo\documents\visual studio 2017\Projects\Alunos\Alunos\obj\Debug\Alunos.pdb

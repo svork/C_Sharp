@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleDeVendas_Rodrigo_52718", "ControleDeVendas_Rodrigo_52718\ControleDeVendas_Rodrigo_52718.csproj", "{23D6BEB4-E613-471B-B0C5-C1AC7E4CA6B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DllControleDeVendas", "DllControleDeVendas\DllControleDeVendas.csproj", "{34AD9386-C38A-4A97-B255-AE98D803A5D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23D6BEB4-E613-471B-B0C5-C1AC7E4CA6B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23D6BEB4-E613-471B-B0C5-C1AC7E4CA6B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23D6BEB4-E613-471B-B0C5-C1AC7E4CA6B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23D6BEB4-E613-471B-B0C5-C1AC7E4CA6B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34AD9386-C38A-4A97-B255-AE98D803A5D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34AD9386-C38A-4A97-B255-AE98D803A5D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34AD9386-C38A-4A97-B255-AE98D803A5D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34AD9386-C38A-4A97-B255-AE98D803A5D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
